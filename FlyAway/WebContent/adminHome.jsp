@@ -28,8 +28,8 @@
        Flight Name:<input type="text" name="fname"><br><br>
        source :<input type="text" name="source"><br><br> 
        destination :<input type="text" name="destination"><br><br>
-       deparature(dd/mm/yyyy) :<input type="text" name="deparature"><br><br>
-         Arrive (dd/mm/yyyy):<input type="text" name="arrive"><br><br>
+       deparature(dd-mm-yyyy) :<input type="date" name="deparature"><br><br>
+         Arrive (dd-mm-yyyy):<input type="date" name="arrive"><br><br>
             
          price :<input type="text" name="price"><br><br>
            <input type="submit" value="add"> <br>

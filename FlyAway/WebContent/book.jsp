@@ -12,7 +12,7 @@
           <legend>fill the passanger details</legend>
        First Name:<input type="text" name="fname" required><br><br>
        last Name:<input type="text" name="lname" required><br><br>
-        DOB(dd/mm/yyy):<input type="text" name="dob" required><br><br> 
+        DOB(dd/mm/yyy):<input type="date" name="dob" required><br><br> 
             age :<input type="text" name="age" required><br><br>
             email:<input type="email" name="email" required><br><br>
             mobile number:<input type="text" name="number" required><br><br>

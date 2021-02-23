@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>FLYAWAY</title>
 </head>
 <body>
   <h2>WELCOME TO FLYAWAY</h2> <h4>(No1 Flight Booking portal)</h4> <br><br>
@@ -27,7 +27,7 @@
           <input type="submit" value="search"> <br><br> 
       </form>
    
-<a href="admin.jsp">admin page</a> <br><br><br>
+<a href="admin.jsp">ADMIN</a> <br><br><br>
  <footer> &copy; Copyright 2021 all rights flyaway.com by Selvamani Venkatesan
 
 </body>
